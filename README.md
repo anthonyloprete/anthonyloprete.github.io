@@ -1,2 +1,5 @@
-# Test 1234
-Test 123
+## Hello
+
+I'm Anthony LoPrete, a [bioengineering](https://be.seas.upenn.edu/) PhD student at the University of Pennsylvania in [Johannes Burge's lab](http://burgelab.psych.upenn.edu/). My research interests include visual perception, virtual/augmented reality, and computational neuroscience. 
+
+Before Penn, I earned a BS in physics and computational science from American University in Washington, D.C., working primarily under [Arthur Shapiro](https://www.american.edu/cas/faculty/arthurs.cfm). I also spent a (virtual) summer at the [University of Rochester's Center for Visual Science](https://www.cvs.rochester.edu/) working in [Duje Tadin's lab](https://www2.bcs.rochester.edu/sites/duje/).
